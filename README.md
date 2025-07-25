@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![极客猴's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monkey-soft&layout=compact&hide_border=true&langs_count=10)
+
+[![GeekMonkey's GitHub stats](https://github-readme-stats.vercel.app/api?username=monkey-soft&show_icons=true&theme=shades-of-purple?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=monkey-soft)](https://git.io/streak-stats)
+
